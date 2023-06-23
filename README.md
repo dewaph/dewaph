@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dewaph&show_icons=true&theme=cobalt&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-<img align="right" alt="GitHub Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewaph&layout=compact" />
-
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dewaph&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dewaph&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
 
