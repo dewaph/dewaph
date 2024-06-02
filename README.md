@@ -9,11 +9,11 @@
   <a href="https://linkedin.com/in/dewa-haryono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewa haryono" height="30" width="40" /></a>
   <a href="https://instagram.com/ini.dewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ini.dewa" height="30" width="40" /></a>
   </p>
+  <img height="180em" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,php,laravel,python,flask,django,mysql,postgres,opencv,sklearn,tensorflow,postman,vscode,pycharm,ps" </a>
   </p>
-    <a target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" </a>
 
 <h3 align="left">I Love:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 <h3>:zap: GitHub Stats</h3>
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dewaph&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dewaph&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dewaph&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
 
